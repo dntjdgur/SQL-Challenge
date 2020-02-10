@@ -3,7 +3,7 @@
 #### The following is the screenshots of SQL query statements to retrieve requested statistics:
 --------------------------------------------------------------------------------------------------------------------------
 #### Importing the CSV Data file and inspecting the data table by sketching out an ERD:
-![ERD](/images/QuickDBD-Free Diagram.png)
+![ERD](/images/QuickDBD-Free_Diagram.png)
 
 ##### List the following details of each employee: employee number, last name, first name, gender, and salary:
 ![Analysis1](/images/analysis1.jpg)
